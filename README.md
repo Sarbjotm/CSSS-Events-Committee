@@ -1,2 +1,4 @@
 # CSSS-Events-Committee
-Meeting Minutes and any Logo Designs Used
+This Git Repo is for SFU's Computing Science Student Society's Event's Committee. 
+
+Here you will find the meeting minutes as well as any logos used for advertising.
